@@ -217,7 +217,34 @@
 .header61{
     width: 150px;
 }
-
+.header62{
+    width: 1000px;
+    padding-top: 100px;
+}
+.header63{
+    display: flex;
+    flex-direction: row;
+}
+.header66{
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+}
+.header67{
+   width: 250px;
+   height: 40px;
+   border-radius: 10px;
+   border: 1px solid gray;
+   text-align: center;
+}
+.header69{
+    width: 150px;
+    border-radius: 10px;
+    height: 40px;
+    color:white;
+    background-color: #263238;
+    border: 0px;
+}
 
 
 
@@ -291,5 +318,35 @@
     .header58{
         text-align: center;
     }
-
+    .header63{
+        display: flex;
+        flex-direction: column;
+        gap:30px;
+    }
+    .header65{
+        width: 450px;
+        height: 450px;
+        padding-top: 100px;
+    }
+    .header66{
+        width: 100%;
+        display: flex;
+        flex-direction: column; 
+    }
+    .header68{
+        display: flex;
+        flex-direction: column;
+        gap:20px;
+        width: 400px;
+        text-align: center;
+        padding-left: 110px;
+    }
+    .header69{
+        width: 250px;
+        text-align: center;
+    }
+     .a1,.a0{
+        width: 400px;
+        text-align: center;
+     }
 }
